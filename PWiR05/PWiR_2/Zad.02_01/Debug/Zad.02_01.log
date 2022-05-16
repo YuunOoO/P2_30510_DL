@@ -1,0 +1,19 @@
+﻿  Zad.02_01.cpp
+C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_2\Zad.02_01\Zad.02_01.cpp(23,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_2\Zad.02_01\Zad.02_01.cpp(89,16): warning C4477: „printf”: ciąg formatu „%lu” wymaga argumentu typu „unsigned long”, ale argument 1 ze zmienną liczbą argumentów ma typ „_Rep”
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_2\Zad.02_01\Zad.02_01.cpp(89,16): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_2\Zad.02_01\Zad.02_01.cpp(89,16): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_2\Zad.02_01\Zad.02_01.cpp(104,20): warning C4477: „printf”: ciąg formatu „%lu” wymaga argumentu typu „unsigned long”, ale argument 1 ze zmienną liczbą argumentów ma typ „_Rep”
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_2\Zad.02_01\Zad.02_01.cpp(104,20): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_2\Zad.02_01\Zad.02_01.cpp(104,20): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_2\Zad.02_01\Zad.02_01.cpp(22): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_2\Zad.02_01\Zad.02_01.cpp(22): warning C4101: "k": lokalna zmienna, do której nie istnieje odwołanie
+  Zad.02_01.vcxproj -> C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_2\Zad.02_01\Debug\Zad.02_01.exe

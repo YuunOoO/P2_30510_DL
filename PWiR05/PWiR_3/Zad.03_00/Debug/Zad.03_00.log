@@ -1,0 +1,3 @@
+﻿  Zad.03_00.cpp
+C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_3\Zad.03_00\Zad.03_00.cpp(24,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Zad.03_00.vcxproj -> C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_3\Zad.03_00\Debug\Zad.03_00.exe

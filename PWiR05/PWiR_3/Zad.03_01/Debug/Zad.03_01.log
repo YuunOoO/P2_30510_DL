@@ -1,0 +1,5 @@
+﻿  Zad.03_01.cpp
+C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_3\Zad.03_01\Zad.03_01.cpp(24,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_3\Zad.03_01\Zad.03_01.cpp(23): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_3\Zad.03_01\Zad.03_01.cpp(23): warning C4101: "k": lokalna zmienna, do której nie istnieje odwołanie
+  Zad.03_01.vcxproj -> C:\Users\student\Desktop\SM PWiR05\PWIR05\PWiR05\PWiR_3\Zad.03_01\Debug\Zad.03_01.exe
